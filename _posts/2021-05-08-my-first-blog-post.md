@@ -1,5 +1,5 @@
 title: Welcome to my blog
-date: 2021-05-08
+date: 2021-5-8
 
 Have you ever been stranded in an unknown environment, with no one to talk to who understands your languague?
 If yes, you then saw a poster with a lot of text, but not writen in English. You are sure this sign-board is telling you something that would most likely save you, but how will you read this.
