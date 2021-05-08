@@ -1,4 +1,4 @@
-title: "Welcome to my blog"
+title: Welcome to my blog
 date: 2021-05-08
 
 Have you ever been stranded in an unknown environment, with no one to talk to who understands your languague?
